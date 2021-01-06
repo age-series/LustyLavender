@@ -14,10 +14,12 @@ This is a list of things that we have found while running the Lusty Lavender Min
 * Logistic Pipes
 * Malisis Doors
 * Minechem
+* Minefactory Reloaded
 * OpenBlocks
 * OpenComputers
 * Optifine
 * Railcraft
+* Thaumcraft
 * Traincraft
 
 ## AE2
@@ -67,6 +69,10 @@ This is a list of things that we have found while running the Lusty Lavender Min
 * Default crafting is difficult
 * If you up the crafting requirements, the machines need to be able to hold enough RF for the most expensive craft (otherwise it will never complete)
 
+## Minefactory Reloaded
+
+* Literally spawns sewage, slude, and shit in the world everywhere, looks ugly
+
 ## OpenBlocks
 
 * The cartogropher can cause a corrupt chunk that will immediately crash the server/client on load
@@ -87,6 +93,13 @@ This is a list of things that we have found while running the Lusty Lavender Min
 * Unloaded tunnel bores with chunkloaders glitch out sometimes
 * Electric tracks load chunks
 * Poor ores need to be disabled
+
+## Thaumcraft
+
+* Warp, Taint Biomes
+* Portable hole and other block-replacement spells can cause crashes with tile entities
+* Nodes everywhere
+* Hungry nodes destroy world and can eventually eat large areas if loaded often
 
 ## Traincraft
 
