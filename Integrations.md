@@ -41,5 +41,7 @@ This is a list of mods that play nice with one another
 * OpenComputers
   * Computer Probe
   * OC Power
+* Tinkers Construct
+  * Aluminum for crafting
 * Generic
   * RF Exporter
