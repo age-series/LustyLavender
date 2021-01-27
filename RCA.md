@@ -37,6 +37,10 @@ This is a list of things that we have found while running the Lusty Lavender Min
   * This causes issues in Logistics Pipes
 * Quarries and the filler make the landscape look terrible compared to other miners
 
+## Chisel
+
+* Particle effects on many blocks are very unsightly. Can raise tick timer in config to high value to mitigate somewhat.
+
 ## Computronics
 
 * Need to make sure people don't store copyrighted music in the tape drives/speakers/whatever, delete if found, ban applicable players
